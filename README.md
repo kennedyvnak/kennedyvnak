@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi, I'm Kennedy!
 
-- 🔭 I'm currently working on indie games on UnityEngine using C#
-- 🌱 I’m currently learning C#
-- 😄 Pronouns: he/she
+Passionate about software development and architecture, as well as game development.
+
+Currently studying Unity and C#!
 
 [![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyvnak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
