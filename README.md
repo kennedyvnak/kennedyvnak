@@ -1,11 +1,19 @@
-# Hi, I'm Kennedy!
+<h1 align="center">Hi 👋, I'm Kennedy</h1>
+<h3 align="center">Passionate about software development and architecture., as well as game development.</h3>
 
-Passionate about software development and architecture, as well as game development.
+- 🔭 I’m currently working on [Metroidavina](https://github.com/kennedyvnak/metroidvania)
 
-Currently studying Unity and C#!
+- 🌱 I’m currently learning **C# and Unity**
 
-[![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyvnak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **Unity Engine**
 
-## My open source game
+- 📫 How to reach me **kennedyvnak@gmail.com**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kennedyvnak&repo=Metroidvania&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I'm brazillian**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyvnak&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kennedyvnak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennedyvnak&show_icons=true&locale=en&theme=dracula" alt="kennedyvnak" /></p>
