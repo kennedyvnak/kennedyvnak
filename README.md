@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kennedy</h1>
-<h3 align="center">Passionate about software development and architecture., as well as game development.</h3>
+<h3 align="center">Passionate about software development and architecture, as well as game development.</h3>
 
 - 🔭 I’m currently working on [Metroidavina](https://github.com/kennedyvnak/metroidvania)
 
